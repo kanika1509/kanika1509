@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kanika Agarwal
-- 👀 I’m interested in Data Analyst profile.
+- 👀 I’m interested in Data
 - 🌱 I’m currently up-skilling in Python, MySql and PowerBi.
-- 💞️ I’m looking for open opportunities for Data Analyst profile. 
+- 💞️ I’m looking for open opportunities for Data Science profile. 
 - 📫 How to reach me kanika.ag1595@gmail.com or https://www.linkedin.com/in/kanikaag15/
 
 <!---
